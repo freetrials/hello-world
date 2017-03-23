@@ -1,2 +1,4 @@
 # hello-world
-new trying to make all in one repo
+ all in one repo
+new ready to learn
+first timer
